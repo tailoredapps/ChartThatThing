@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ChartThatThing' target in the 'ChartThatThing' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

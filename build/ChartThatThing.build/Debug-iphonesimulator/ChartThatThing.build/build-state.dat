@@ -1,0 +1,1029 @@
+TChartThatThing
+v7
+r0
+t297701136.495979
+cCheck dependencies
+cProcessInfoPlistFile /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/Info.plist ChartThatThing-Info.plist
+cCompileXIB /Users/hannessatz/Documents/ChartThatThing/MainWindow.xib
+cCompileXIB /Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib
+cProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/main.o /Users/hannessatz/Documents/ChartThatThing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingAppDelegate.o /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingViewController.o /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABDiagramData.o /Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/TestDataDriver.o /Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing normal i386
+cGenerateDSYMFile /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app.dSYM /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing
+cTouch /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C02C1E30000000000000110
+t1275249123
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B9F26A3000000000000007D
+t1268721315
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib
+c000000004C08FF750000000000003F45
+t1275658101
+s16197
+
+N/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch
+c000000004C08E59500000000000000C5
+t1275651477
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.h
+c000000004C0CC788000000000000018D
+t1275905928
+s397
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m
+c000000004C0CC8250000000000000187
+t1275906085
+s391
+i"ABDiagramData.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ABPlotTypes.h
+c000000004C0CC50700000000000000E5
+t1275905287
+s229
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ABPlotTypes.m
+c000000004C0CC50700000000000000D0
+t1275905287
+s208
+i"ABPlotTypes.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.h
+c000000004C08FDBF0000000000000227
+t1275657663
+s551
+i<UIKit/UIKit.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m
+c000000004C08E59500000000000002C8
+t1275651477
+s712
+i"ChartThatThingAppDelegate.h"
+i"ChartThatThingViewController.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.h
+c000000004C0CC6FC0000000000000215
+t1275905788
+s533
+i<UIKit/UIKit.h>
+i"CorePlot-CocoaTouch.h"
+i"ABDiagramData.h"
+i<stdlib.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m
+c000000004C0E578F000000000000276B
+t1276008335
+s10091
+i"ChartThatThingViewController.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.h
+c000000004C0C9C66000000000000018C
+t1275894886
+s396
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.m
+c000000004C0C9CAE0000000000000183
+t1275894958
+s387
+i"DiagramData.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/DiagramDataList.h
+c000000004C0C08C20000000000000119
+t1275857090
+s281
+i<Foundation/Foundation.h>
+i"DiagramData.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/DiagramDataList.m
+c000000004C0C08B100000000000000DC
+t1275857073
+s220
+i"DiagramDataList.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.h
+c000000004C0E22430000000000000105
+t1275994691
+s261
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m
+c000000004C0E241A00000000000000F9
+t1275995162
+s249
+i"TestDataDriver.h"
+
+N/Users/hannessatz/Documents/ChartThatThing/MainWindow.xib
+c000000004C08E5950000000000002699
+t1275651477
+s9881
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABDiagramData.o
+t1275906114
+s8796
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABPlotTypes.o
+t2
+s0
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThing.LinkFileList
+c000000004C0E225E00000000000002FC
+t1275994718
+s764
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingAppDelegate.o
+t1275906114
+s41176
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingViewController.o
+t1276008336
+s59112
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/DiagramData.o
+t1275895021
+s8768
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/DiagramDataList.o
+t2
+s0
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/TestDataDriver.o
+t1275995162
+s5744
+
+N/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/main.o
+t1275906114
+s5952
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app
+t1276008336
+s238
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app.dSYM
+t1276008336
+s102
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing
+t1276008336
+s485652
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThingViewController.nib
+t1275906113
+s1228
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/Info.plist
+t1275930974
+s689
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/MainWindow.nib
+t1275906113
+s1524
+
+N/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/PkgInfo
+t1275930974
+s8
+
+N/Users/hannessatz/Documents/ChartThatThing/main.m
+c000000004C08E5950000000000000172
+t1275651477
+s370
+i<UIKit/UIKit.h>
+
+N/Users/hannessatz/Frameworks/core-plot/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a
+c000000004C0D295E000000000014B8F0
+t1275930974
+s1358064
+
+N/Users/hannessatz/Frameworks/core-plot/framework/CorePlot-CocoaTouch.h
+c000000004C08E9200000000000000722
+t1275652384
+s1826
+i"Source/CPAnimation.h"
+i"Source/CPAnimationKeyFrame.h"
+i"Source/CPAnimationTransition.h"
+i"Source/CPAxis.h"
+i"Source/CPAxisLabel.h"
+i"Source/CPAxisLabelGroup.h"
+i"Source/CPAxisSet.h"
+i"Source/CPAxisTitle.h"
+i"Source/CPBarPlot.h"
+i"Source/CPBorderedLayer.h"
+i"Source/CPColor.h"
+i"Source/CPColorSpace.h"
+i"Source/CPConstrainedPosition.h"
+i"Source/CPDarkGradientTheme.h"
+i"Source/CPDefinitions.h"
+i"Source/CPExceptions.h"
+i"Source/CPFill.h"
+i"Source/CPGradient.h"
+i"Source/CPGraph.h"
+i"Source/CPGridLines.h"
+i"Source/CPImage.h"
+i"Source/CPLayer.h"
+i"iPhoneOnly/CPLayerHostingView.h"
+i"Source/CPLayoutManager.h"
+i"Source/CPLineStyle.h"
+i"Source/CPPieChart.h"
+i"Source/CPPlainBlackTheme.h"
+i"Source/CPPlainWhiteTheme.h"
+i"iPhoneOnly/CPPlatformSpecificDefines.h"
+i"iPhoneOnly/CPPlatformSpecificFunctions.h"
+i"iPhoneOnly/CPPlatformSpecificCategories.h"
+i"Source/CPPathExtensions.h"
+i"Source/CPPlot.h"
+i"Source/CPPlotAreaFrame.h"
+i"Source/CPPlotGroup.h"
+i"Source/CPPlotRange.h"
+i"Source/CPPlotSpace.h"
+i"Source/CPPlotSymbol.h"
+i"Source/CPPolarPlotSpace.h"
+i"Source/CPResponder.h"
+i"Source/CPScatterPlot.h"
+i"Source/CPSlateTheme.h"
+i"Source/CPSlateTheme.h"
+i"Source/CPStocksTheme.h"
+i"Source/CPTextLayer.h"
+i"Source/CPTextStyle.h"
+i"Source/CPTheme.h"
+i"Source/CPTimeFormatter.h"
+i"Source/CPTradingRangePlot.h"
+i"Source/CPUtilities.h"
+i"Source/CPXYAxis.h"
+i"Source/CPXYAxisSet.h"
+i"Source/CPXYGraph.h"
+i"Source/CPXYPlotSpace.h"
+i"Source/CPXYTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAnimation.h
+c000000004C08E920000000000000054C
+t1275652384
+s1356
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAnimationKeyFrame.h
+c000000004C08E92000000000000001B6
+t1275652384
+s438
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAnimationTransition.h
+c000000004C08E9200000000000000461
+t1275652384
+s1121
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAxis.h
+c000000004C08E92000000000000019A9
+t1275652384
+s6569
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAxisLabel.h
+c000000004C08E920000000000000040B
+t1275652384
+s1035
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAxisLabelGroup.h
+c000000004C08E9200000000000000068
+t1275652384
+s104
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAxisSet.h
+c000000004C08E9200000000000000144
+t1275652384
+s324
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPAxisTitle.h
+c000000004C08E920000000000000006D
+t1275652384
+s109
+i<Foundation/Foundation.h>
+i"CPAxisLabel.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPBarPlot.h
+c000000004C08E9200000000000000B05
+t1275652384
+s2821
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPBorderedLayer.h
+c000000004C08E920000000000000013F
+t1275652384
+s319
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPColor.h
+c000000004C08E9200000000000000439
+t1275652384
+s1081
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPColorSpace.h
+c000000004C08E9200000000000000141
+t1275652384
+s321
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPConstrainedPosition.h
+c000000004C08E92000000000000002A5
+t1275652384
+s677
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPDarkGradientTheme.h
+c000000004C08E920000000000000006F
+t1275652384
+s111
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPDefinitions.h
+c000000004C08E9200000000000000A6C
+t1275652384
+s2668
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPExceptions.h
+c000000004C08E92000000000000000B2
+t1275652384
+s178
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPFill.h
+c000000004C08E9200000000000000346
+t1275652384
+s838
+i<QuartzCore/QuartzCore.h>
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPGradient.h
+c000000004C08E9200000000000000B97
+t1275652384
+s2967
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPGraph.h
+c000000004C08E92000000000000008A5
+t1275652384
+s2213
+i"CPBorderedLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPGridLines.h
+c000000004C08E920000000000000010A
+t1275652384
+s266
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPImage.h
+c000000004C08E92000000000000002AA
+t1275652384
+s682
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPLayer.h
+c000000004C08E920000000000000087A
+t1275652384
+s2170
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i"CPResponder.h"
+i"CPPlatformSpecificDefines.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPLayoutManager.h
+c000000004C08E92000000000000006B2
+t1275652384
+s1714
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPLineStyle.h
+c000000004C08E920000000000000040E
+t1275652384
+s1038
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPathExtensions.h
+c000000004C08E92000000000000000E7
+t1275652384
+s231
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPieChart.h
+c000000004C08E9200000000000000826
+t1275652384
+s2086
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlainBlackTheme.h
+c000000004C08E920000000000000006E
+t1275652384
+s110
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlainWhiteTheme.h
+c000000004C08E920000000000000006E
+t1275652384
+s110
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlot.h
+c000000004C08E9200000000000000B61
+t1275652384
+s2913
+i"CPDefinitions.h"
+i"CPPlotRange.h"
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlotAreaFrame.h
+c000000004C08E920000000000000016E
+t1275652384
+s366
+i"CPBorderedLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlotGroup.h
+c000000004C08E9200000000000000142
+t1275652384
+s322
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlotRange.h
+c000000004C08E92000000000000005D0
+t1275652384
+s1488
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlotSpace.h
+c000000004C08E9200000000000000FE7
+t1275652384
+s4071
+i"CPDefinitions.h"
+i"CPResponder.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPlotSymbol.h
+c000000004C08E9200000000000000822
+t1275652384
+s2082
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPPolarPlotSpace.h
+c000000004C08E9200000000000000075
+t1275652384
+s117
+i<Foundation/Foundation.h>
+i"CPPlotSpace.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPResponder.h
+c000000004C08E9200000000000000535
+t1275652384
+s1333
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPScatterPlot.h
+c000000004C08E92000000000000008D8
+t1275652384
+s2264
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPSlateTheme.h
+c000000004C08E9200000000000000068
+t1275652384
+s104
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPStocksTheme.h
+c000000004C08E920000000000000006A
+t1275652384
+s106
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPTextLayer.h
+c000000004C08E9200000000000000224
+t1275652384
+s548
+i"CPLayer.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPTextStyle.h
+c000000004C08E920000000000000034B
+t1275652384
+s843
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPTheme.h
+c000000004C08E92000000000000004B0
+t1275652384
+s1200
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPTimeFormatter.h
+c000000004C08E9200000000000000175
+t1275652384
+s373
+i<Foundation/Foundation.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPTradingRangePlot.h
+c000000004C08E92000000000000009C4
+t1275652384
+s2500
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPUtilities.h
+c000000004C08E920000000000000079C
+t1275652384
+s1948
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPXYAxis.h
+c000000004C08E920000000000000020E
+t1275652384
+s526
+i<Foundation/Foundation.h>
+i"CPAxis.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPXYAxisSet.h
+c000000004C08E92000000000000000EB
+t1275652384
+s235
+i<Foundation/Foundation.h>
+i"CPAxisSet.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPXYGraph.h
+c000000004C08E9200000000000000154
+t1275652384
+s340
+i<Foundation/Foundation.h>
+i"CPGraph.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPXYPlotSpace.h
+c000000004C08E920000000000000030F
+t1275652384
+s783
+i"CPPlotSpace.h"
+i"CPDefinitions.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/Source/CPXYTheme.h
+c000000004C08E9200000000000000062
+t1275652384
+s98
+i<Foundation/Foundation.h>
+i"CPTheme.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/iPhoneOnly/CPLayerHostingView.h
+c000000004C08E92000000000000000BE
+t1275652384
+s190
+i<UIKit/UIKit.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/iPhoneOnly/CPPlatformSpecificCategories.h
+c000000004C08E920000000000000039E
+t1275652384
+s926
+i<UIKit/UIKit.h>
+i"CPColor.h"
+i"CPLayer.h"
+i"CPPlatformSpecificDefines.h"
+
+N/Users/hannessatz/Frameworks/core-plot/framework/iPhoneOnly/CPPlatformSpecificDefines.h
+c000000004C08E920000000000000005B
+t1275652384
+s91
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hannessatz/Frameworks/core-plot/framework/iPhoneOnly/CPPlatformSpecificFunctions.h
+c000000004C08E920000000000000008D
+t1275652384
+s141
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-azljewyjeanoxgeijeowewrjdisj/ChartThatThing_Prefix.pch.gch
+t1275655196
+s13026768
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bifisbqmeuapmlbsjgiuarwaaxxp/ChartThatThing_Prefix.pch.gch
+t1275651483
+s13026768
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bjrdzsfzbylrhkdktxymhsqrpetv/ChartThatThing_Prefix.pch.gch
+t1275654688
+s13026768
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch.gch
+t1275906113
+s12952976
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-covucragwyvsyohfcvjhgpmvfgtr/ChartThatThing_Prefix.pch.gch
+t1275656279
+s13805456
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-eboxenxmdgzxlweekriddkonsykn/ChartThatThing_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-guugjoegfodzmnbzxzqoaerxggww/ChartThatThing_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-gvkoavdzcfezjnfhnnqawnqyqmix/ChartThatThing_Prefix.pch.gch
+t1275656546
+s13026768
+
+NChartThatThing-Info.plist
+c000000004C0D295500000000000003E7
+t1275930965
+s999
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297701136#297701136#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABDiagramData.o /Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297598914.087845
+e297598914.151202
+r1
+xCompileC
+xbuild/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABDiagramData.o
+x/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m: In function '-[ABDiagramData initWithData::]':
+o/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m:17: warning: conflicting types for '-(id)initWithData:(NSString *)tname :(NSInteger *)tamount'
+o/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.h:18: warning: previous declaration of '-(id)initWithData:(NSString *)tname :(NSInteger)tamount'
+o/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m:20: warning: passing argument 1 of 'setAmount:' makes integer from pointer without a cast
+lSLF07#2@74"Compile /Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m297598914#297598914#0(596"/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m: In function '-[ABDiagramData initWithData::]':/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m:17: warning: conflicting types for '-(id)initWithData:(NSString *)tname :(NSInteger *)tamount'/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.h:18: warning: previous declaration of '-(id)initWithData:(NSString *)tname :(NSInteger)tamount'/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m:20: warning: passing argument 1 of 'setAmount:' makes integer from pointer without a cast3(22@81"Conflicting types for '-(id)initWithData:(NSString *)tname :(NSInteger *)tamount'297598914#115#162#0(6@66"/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m297598885#17#0#17#0#25"conflicting types for '*'0(22@81"Previous declaration of '-(id)initWithData:(NSString *)tname :(NSInteger)tamount'297598914#277#162#0(6@66"/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.h297598728#18#0#18#0#0"0(22@76"Passing argument 1 of 'setAmount:' makes integer from pointer without a cast297598914#439#157#0(6@66"/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m297598885#20#0#20#0#67"passing argument * of '*' makes integer from pointer without a cast0(0#0#66"/Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m4300911832#2398"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -include /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch -c /Users/hannessatz/Documents/ChartThatThing/Classes/ABDiagramData.m -o /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABDiagramData.o0#
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ABPlotTypes.o /Users/hannessatz/Documents/ChartThatThing/Classes/ABPlotTypes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingAppDelegate.o /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297598913.986072
+e297598914.087729
+r1
+xCompileC
+xbuild/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingAppDelegate.o
+x/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m297598913#297598914#0(0"0(0#0#78"/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m4300911832#2422"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -include /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch -c /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingAppDelegate.m -o /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingAppDelegate.o0#
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingViewController.o /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297701136.220773
+e297701136.337526
+r1
+xCompileC
+xbuild/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingViewController.o
+x/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m297701136#297701136#0(0"0(0#0#81"/Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m4300911832#2428"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -include /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch -c /Users/hannessatz/Documents/ChartThatThing/Classes/ChartThatThingViewController.m -o /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThingViewController.o0#
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/DiagramData.o /Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297587821.786703
+e297587821.919732
+r1
+xCompileC
+xbuild/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/DiagramData.o
+x/Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.m297587821#297587821#0(0"0(0#0#64"/Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.m4300911832#2394"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -include /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch -c /Users/hannessatz/Documents/ChartThatThing/Classes/DiagramData.m -o /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/DiagramData.o0#
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/DiagramDataList.o /Users/hannessatz/Documents/ChartThatThing/Classes/DiagramDataList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/TestDataDriver.o /Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297687962.099909
+e297687962.153017
+r1
+xCompileC
+xbuild/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/TestDataDriver.o
+x/Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m297687962#297687962#0(0"0(0#0#67"/Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m4300911832#2400"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -include /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch -c /Users/hannessatz/Documents/ChartThatThing/Classes/TestDataDriver.m -o /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/TestDataDriver.o0#
+
+CCompileC build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/main.o /Users/hannessatz/Documents/ChartThatThing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297598913.984643
+e297598914.043320
+r1
+xCompileC
+xbuild/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/main.o
+x/Users/hannessatz/Documents/ChartThatThing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/hannessatz/Documents/ChartThatThing/main.m297598913#297598914#0(0"0(0#0#49"/Users/hannessatz/Documents/ChartThatThing/main.m4300911832#2372"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -include /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch -c /Users/hannessatz/Documents/ChartThatThing/main.m -o /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib
+s297598912.892592
+e297598913.306518
+r1
+xCompileXIB
+x/Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'Layer Hosting View' but 'CPLayerHostingView' is not a kind of 'UIView' as specified by the outlet type.
+lSLF07#2@43"CompileXIB ChartThatThingViewController.xib297598912#297598913#0(287"/* com.apple.ibtool.document.warnings *//Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'Layer Hosting View' but 'CPLayerHostingView' is not a kind of 'UIView' as specified by the outlet type.1(22@156"The 'view' outlet of 'File's Owner' is connected to 'Layer Hosting View' but 'CPLayerHostingView' is not a kind of 'UIView' as specified by the outlet type.297598913#18446744073709551615#0#0(6@75"/Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib297350901#18446744073709551615#0#18446744073709551615#0#0"0(0#0#75"/Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib4300911832#535"    cd /Users/hannessatz/Documents/ChartThatThing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThingViewController.nib /Users/hannessatz/Documents/ChartThatThing/ChartThatThingViewController.xib0#
+
+CCompileXIB /Users/hannessatz/Documents/ChartThatThing/MainWindow.xib
+s297598912.891447
+e297598913.344850
+r1
+xCompileXIB
+x/Users/hannessatz/Documents/ChartThatThing/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297598912#297598913#0(0"0(0#0#57"/Users/hannessatz/Documents/ChartThatThing/MainWindow.xib4300911832#499"    cd /Users/hannessatz/Documents/ChartThatThing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/MainWindow.nib /Users/hannessatz/Documents/ChartThatThing/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app.dSYM /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing
+s297701136.432388
+e297701136.493321
+r1
+xGenerateDSYMFile
+x/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app.dSYM
+x/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/ChartThatThing.app.dSYM build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing297701136#297701136#0(0"0(0#0#104"/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing4300911832#416"    cd /Users/hannessatz/Documents/ChartThatThing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing -o /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app.dSYM0#
+
+CLd /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing normal i386
+s297701136.337623
+e297701136.432276
+r1
+xLd
+x/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing
+xnormal
+xi386
+lSLF07#2@109"Link /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing297701136#297701136#0(0"0(0#0#0"4300911832#1047"    cd /Users/hannessatz/Documents/ChartThatThing    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -filelist /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/Objects-normal/i386/ChartThatThing.LinkFileList -mmacosx-version-min=10.5 -ObjC -all_load /Users/hannessatz/Frameworks/core-plot/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/ChartThatThing0#
+
+CProcessInfoPlistFile /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/Info.plist ChartThatThing-Info.plist
+s297623774.047615
+e297623774.050574
+r1
+xProcessInfoPlistFile
+x/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/Info.plist
+xChartThatThing-Info.plist
+lSLF07#2@33"Process ChartThatThing-Info.plist297623774#297623774#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing-Info.plist4300911832#512"    cd /Users/hannessatz/Documents/ChartThatThing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ChartThatThing-Info.plist -genpkginfo /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app/Info.plist0#
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-azljewyjeanoxgeijeowewrjdisj/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297347996.403531
+e297347997.031946
+r1
+xProcessPCH
+x/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-azljewyjeanoxgeijeowewrjdisj/ChartThatThing_Prefix.pch.gch
+xChartThatThing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ChartThatThing_Prefix.pch297347996#297347997#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch4300911832#2050"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../Frameworks/core-plot/framework/iPhoneOnly -I../Frameworks/core-plot/framework -I../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -c /Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch -o /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-azljewyjeanoxgeijeowewrjdisj/ChartThatThing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bifisbqmeuapmlbsjgiuarwaaxxp/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297344282.349142
+e297344283.428798
+r1
+xProcessPCH
+x/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bifisbqmeuapmlbsjgiuarwaaxxp/ChartThatThing_Prefix.pch.gch
+xChartThatThing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ChartThatThing_Prefix.pch297344282#297344283#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch4300911832#1924"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -c /Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch -o /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bifisbqmeuapmlbsjgiuarwaaxxp/ChartThatThing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bjrdzsfzbylrhkdktxymhsqrpetv/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297347487.551745
+e297347488.475935
+r1
+xProcessPCH
+x/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bjrdzsfzbylrhkdktxymhsqrpetv/ChartThatThing_Prefix.pch.gch
+xChartThatThing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ChartThatThing_Prefix.pch297347487#297347488#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch4300911832#2026"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I/Users/hannessatz/Documents/ChartThatThing/** -I/Users/hannessatz/Frameworks/core-plot/framework/** -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -c /Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch -o /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-bjrdzsfzbylrhkdktxymhsqrpetv/ChartThatThing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297598913.345041
+e297598913.984174
+r1
+xProcessPCH
+x/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch.gch
+xChartThatThing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ChartThatThing_Prefix.pch297598913#297598913#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch4300911832#2253"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -c /Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch -o /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-ciiaveyfcvjhgfehshyybzjhkvpx/ChartThatThing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-covucragwyvsyohfcvjhgpmvfgtr/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297349079.083698
+e297349079.786635
+r1
+xProcessPCH
+x/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-covucragwyvsyohfcvjhgpmvfgtr/ChartThatThing_Prefix.pch.gch
+xChartThatThing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ChartThatThing_Prefix.pch297349079#297349079#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch4300911832#2253"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -c /Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch -o /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-covucragwyvsyohfcvjhgpmvfgtr/ChartThatThing_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-eboxenxmdgzxlweekriddkonsykn/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-guugjoegfodzmnbzxzqoaerxggww/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-gvkoavdzcfezjnfhnnqawnqyqmix/ChartThatThing_Prefix.pch.gch ChartThatThing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297349345.567829
+e297349346.310096
+r1
+xProcessPCH
+x/var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-gvkoavdzcfezjnfhnnqawnqyqmix/ChartThatThing_Prefix.pch.gch
+xChartThatThing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile ChartThatThing_Prefix.pch297349345#297349346#0(0"0(0#0#68"/Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch4300911832#2255"    cd /Users/hannessatz/Documents/ChartThatThing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-generated-files.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-own-target-headers.hmap -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-all-target-headers.hmap -iquote /Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/ChartThatThing-project-headers.hmap -F/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator -I/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/include -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework -I../../Frameworks/core-plot/framework/iPhoneOnly -I../../Frameworks/core-plot/framework/MacOnly -I../../Frameworks/core-plot/framework/Source -I../../Frameworks/core-plot/framework/TestResources -I../../Frameworks/core-plot/framework/Source -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources/i386 -I/Users/hannessatz/Documents/ChartThatThing/build/ChartThatThing.build/Debug-iphonesimulator/ChartThatThing.build/DerivedSources -c /Users/hannessatz/Documents/ChartThatThing/ChartThatThing_Prefix.pch -o /var/folders/HD/HDEnyj7tGPSilcroK7Bp4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChartThatThing_Prefix-gvkoavdzcfezjnfhnnqawnqyqmix/ChartThatThing_Prefix.pch.gch0#
+
+CTouch /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app
+s297701136.493408
+e297701136.495941
+r1
+xTouch
+x/Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app
+lSLF07#2@95"Touch /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app297701136#297701136#0(0"0(0#0#0"4300911832#293"    cd /Users/hannessatz/Documents/ChartThatThing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hannessatz/Documents/ChartThatThing/build/Debug-iphonesimulator/ChartThatThing.app0#
+
